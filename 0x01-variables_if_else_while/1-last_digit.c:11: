@@ -1,0 +1,22 @@
+st_digit.c:12: WARNING: please, no spaces at the start of a line
+1-last_digit.c:14: WARNING: please, no spaces at the start of a line
+1-last_digit.c:15: WARNING: please, no spaces at the start of a line
+1-last_digit.c:17: WARNING: please, no spaces at the start of a line
+1-last_digit.c:19: WARNING: please, no spaces at the start of a line
+1-last_digit.c:21: WARNING: please, no spaces at the start of a line
+1-last_digit.c:22: WARNING: please, no spaces at the start of a line
+1-last_digit.c:23: ERROR: code indent should use tabs where possible
+1-last_digit.c:23: WARNING: please, no spaces at the start of a line
+1-last_digit.c:24: WARNING: please, no spaces at the start of a line
+1-last_digit.c:25: WARNING: please, no spaces at the start of a line
+1-last_digit.c:26: WARNING: please, no spaces at the start of a line
+1-last_digit.c:27: ERROR: code indent should use tabs where possible
+1-last_digit.c:27: WARNING: please, no spaces at the start of a line
+1-last_digit.c:28: WARNING: please, no spaces at the start of a line
+1-last_digit.c:29: WARNING: please, no spaces at the start of a line
+1-last_digit.c:30: WARNING: please, no spaces at the start of a line
+1-last_digit.c:31: ERROR: code indent should use tabs where possible
+1-last_digit.c:31: WARNING: please, no spaces at the start of a line
+1-last_digit.c:32: WARNING: please, no spaces at the start of a line
+1-last_digit.c:34: WARNING: please, no spaces at the start of a line
+total: 3 errors, 19 warnings, 35 lines checked
